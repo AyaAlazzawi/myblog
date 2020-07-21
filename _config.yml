@@ -1,0 +1,11 @@
+# basic options
+title: Aya Alazzawi
+author: Aya Alazzawi
+email: ayoutaal2000@gmail.com
+description: Get to know Aya a little more!
+github_username:  AyaAlazzawi
+instagram_username: iwazzala
+
+# Build settings
+markdown: kramdown
+theme: minima
