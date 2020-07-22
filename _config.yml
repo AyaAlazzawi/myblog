@@ -1,11 +1,31 @@
-# basic options
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://AyaAlazzawi.com
 title: Aya Alazzawi
-author: Aya Alazzawi
 email: ayoutaal2000@gmail.com
-description: Get to know Aya a little more!
-github_username:  AyaAlazzawi
-instagram_username: iwazzala
+author: Aya Alazzawi
+description: > # "Write an awesome description for your new site here.
+  Get to know Aya a little more!
+copyright: 'Copyright &copy; 2020 Aya Alazzawi. All Rights Reserved.'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
 
 # Build settings
 markdown: kramdown
-theme: minima
+permalink: pretty
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+social:
+  - title: instagram
+    url: https://www.instagram.com/iwazzala/
+  - title: github
+    url: https://github.com/AyaAlazzawi
+  - title: linkedin
+    url: https://www.linkedin.com/in/ayaalazzawi/
